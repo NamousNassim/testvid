@@ -2,3 +2,4 @@
 
 
 [vid](test.mp4)
+[vid](test.gif)
